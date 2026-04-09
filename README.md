@@ -9,7 +9,7 @@ Features:
 - XYZ analysis for demand stability 
 
 Tech stack:
-- Python
+- C#
 - data processing libraries
 - local data storage
 
